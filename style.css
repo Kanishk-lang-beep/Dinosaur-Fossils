@@ -258,14 +258,14 @@ section h2 {
     margin-bottom: 0;
 }
 
-/* Global paragraph styling (overridden where specific margin is set) */
+
 p {
     margin-bottom: 1em;
     font-size: 1.05em;
     color: #e8e8df;
 }
 
-/* List styling for Fossils section */
+
 ul {
     margin: 15px 0 15px 20px;
     color: #aef359; 

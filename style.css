@@ -212,7 +212,7 @@ section h2 {
     text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 
-/* Flexbox Layout for Sections */
+
 .period-content-wrapper {
     display: flex; 
     flex-wrap: wrap; 
